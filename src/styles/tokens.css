@@ -1,0 +1,12 @@
+:root {
+  --blue: #1761a0;
+  --navy: #082b59;
+  --red: #d92736;
+  --yellow: #f4c52e;
+  --white: #fff;
+  --paper: #f5f7f9;
+  --ink: #102b46;
+  --muted: #60728a;
+  --line: #dbe4ec;
+  --container: min(1180px, calc(100% - 48px));
+}

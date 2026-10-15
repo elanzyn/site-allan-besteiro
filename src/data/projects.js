@@ -1,0 +1,36 @@
+export const projects = [
+  {
+    id: 'projeto-01',
+    slug: 'projeto-documentado-a-inserir',
+    category: 'Projeto',
+    title: 'Projeto documentado a inserir',
+    summary: 'Espaço reservado para um resumo objetivo de uma ação confirmada do mandato.',
+    description: 'A documentação, a descrição completa e a situação desta proposição ainda precisam ser fornecidas e verificadas antes da publicação.',
+    location: 'A confirmar',
+    proposalDate: 'A confirmar',
+    status: 'Pendente de documentação',
+    councilorRole: 'A confirmar',
+    imageLabel: 'Foto do projeto a inserir',
+    featuredImage: null,
+    gallery: [],
+    officialSources: [],
+  },
+  {
+    id: 'projeto-02',
+    slug: 'acao-documentada-a-inserir',
+    category: 'Ação',
+    title: 'Ação documentada a inserir',
+    summary: 'Espaço reservado para um resumo objetivo de uma ação confirmada do mandato.',
+    description: 'A documentação, a descrição completa e a situação desta ação ainda precisam ser fornecidas e verificadas antes da publicação.',
+    location: 'A confirmar',
+    proposalDate: 'A confirmar',
+    status: 'Pendente de documentação',
+    councilorRole: 'A confirmar',
+    imageLabel: 'Foto da ação a inserir',
+    featuredImage: null,
+    gallery: [],
+    officialSources: [],
+  },
+]
+
+export const featuredProjects = projects
